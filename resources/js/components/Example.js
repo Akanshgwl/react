@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 export default class Example extends Component {
     render() {
-        return (
+        return ( 
                 <div className="container">
                     <div className="row justify-content-center"> 
                         <div className="col-md-8">
