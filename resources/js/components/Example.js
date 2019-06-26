@@ -8,8 +8,7 @@ export default class Example extends Component {
                     <div className="row justify-content-center"> 
                         <div className="col-md-8">
                             <div className="card">
-                                <div className="card-header">Learning React Local</div>
-                
+                                <div className="card-header">Learning React Local</div>                
                                 <div className="card-body">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </div>
                             </div>
                         </div>
